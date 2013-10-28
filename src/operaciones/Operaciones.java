@@ -10,6 +10,7 @@ public class Operaciones {
 		BufferedReader br = new BufferedReader(isr);
 
 		System.out.println("1. Suma");
+		System.out.println("2. Resta");
 
 	}
 }
