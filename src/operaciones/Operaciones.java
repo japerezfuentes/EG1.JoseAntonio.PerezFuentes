@@ -11,6 +11,7 @@ public class Operaciones {
 
 		System.out.println("1. Suma");
 		System.out.println("2. Resta");
+		System.out.println("3. Multiplicacion");
 
 	}
 }
